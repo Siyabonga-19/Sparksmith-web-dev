@@ -33,7 +33,8 @@ Sparksmith_WEDE5020_Part2/
 ├── services.html
 ├── products.html
 ├── contact.html
-├── styles.css
+├── css/
+│   └── styles.css
 ├── README.md
 ├── REFERENCES.md
 └── images/
