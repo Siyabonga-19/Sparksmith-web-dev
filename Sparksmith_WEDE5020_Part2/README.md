@@ -35,10 +35,27 @@ Sparksmith_WEDE5020_Part2/
 ├── contact.html
 ├── styles.css
 ├── README.md
-├── CHANGELOG.md
 ├── REFERENCES.md
 └── images/
 ```
+
+## Changelog
+
+### 16 September 2026 — Part 2
+- Created `styles.css` and linked all five HTML pages to one external stylesheet.
+- Reworked the navigation, header, hero areas and footer for consistent visual hierarchy.
+- Added CSS Grid and Flexbox layouts for desktop presentation.
+- Added tablet and mobile media queries for responsive behaviour.
+- Improved buttons, cards, forms, tables and spacing for usability and presentation.
+- Improved image sizing and alternative text for visual consistency and accessibility.
+- Added this Part 2 README and updated the project references.
+- Kept JavaScript out of this version, reserving functionality and validation for Part 3.
+
+### Part 1 corrections carried forward
+- Maintained five linked website pages.
+- Maintained the service, product, contact and enquiry content.
+- Retained local image assets.
+- Kept the academic/prototype authenticity note.
 
 ## Important prototype note
 Sparksmith Electrical Services is presented as an academic website concept. Contact details, business history, prices and staff/business claims must be verified before commercial publication.
